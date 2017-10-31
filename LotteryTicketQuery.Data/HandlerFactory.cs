@@ -1,5 +1,4 @@
-﻿using Enum;
-using LotteryTicketQuery.Entity;
+﻿using LotteryTicketQuery.Entity;
 using System;
 using System.Collections.Generic;
 using System.Linq;

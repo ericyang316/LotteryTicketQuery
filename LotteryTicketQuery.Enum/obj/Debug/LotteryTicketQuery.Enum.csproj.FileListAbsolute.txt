@@ -3,3 +3,7 @@ d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\Enum\obj\Debug\LotteryTicketQuery.Enum.csprojResolveAssemblyReference.cache
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\Enum\obj\Debug\LotteryTicketQuery.Enum.dll
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\Enum\obj\Debug\LotteryTicketQuery.Enum.pdb
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Enum\bin\Debug\LotteryTicketQuery.Enum.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Enum\bin\Debug\LotteryTicketQuery.Enum.pdb
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Enum\obj\Debug\LotteryTicketQuery.Enum.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Enum\obj\Debug\LotteryTicketQuery.Enum.pdb

@@ -1,0 +1,25 @@
+--USE master
+--GO
+--IF EXISTS(SELECT name FROM sysdatabases where name='LotteryTicket')
+--drop database LotteryTicket
+--go
+--create database LotteryTicket
+
+--use LotteryTicket
+--go
+
+--if exists(select name from sysobjects where name='SSQRecord')
+--drop table SSQRecord
+--go
+--create table SSQRecord(
+--ID bigint identity(1,1) primary key not null,
+--VolumesNum int not null,
+--RedAreaFirstNum int not null,
+--RedAreaSecNum int not null,
+--RedAreaThirdNum int not null,
+--RedAreaFourthNum int not null,
+--RedAreaFifthNum int not null,
+--RedAreaSixthNum int not null,
+--BlueAreaFirstNum int not null,
+--CreateDate datetime not null,
+--)

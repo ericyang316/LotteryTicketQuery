@@ -9,3 +9,12 @@ d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Data\bin\Debug\LotteryTicketQuery.Model.pdb
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Data\obj\Debug\LotteryTicketQuery.Data.dll
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Data\obj\Debug\LotteryTicketQuery.Data.pdb
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\obj\Debug\LotteryTicketQuery.Data.csprojResolveAssemblyReference.cache
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\bin\Debug\LotteryTicketQuery.Data.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\bin\Debug\LotteryTicketQuery.Data.pdb
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\bin\Debug\LotteryTicketQuery.Entity.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\bin\Debug\LotteryTicketQuery.Model.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\bin\Debug\LotteryTicketQuery.Entity.pdb
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\bin\Debug\LotteryTicketQuery.Model.pdb
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\obj\Debug\LotteryTicketQuery.Data.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Data\obj\Debug\LotteryTicketQuery.Data.pdb

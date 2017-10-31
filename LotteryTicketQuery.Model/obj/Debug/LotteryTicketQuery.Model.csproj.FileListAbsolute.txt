@@ -3,3 +3,7 @@ d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Model\obj\Debug\LotteryTicketQuery.Model.dll
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Model\obj\Debug\LotteryTicketQuery.Model.pdb
 d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Model\obj\Debug\LotteryTicketQuery.Model.csprojResolveAssemblyReference.cache
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Model\bin\Debug\LotteryTicketQuery.Model.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Model\bin\Debug\LotteryTicketQuery.Model.pdb
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Model\obj\Debug\LotteryTicketQuery.Model.dll
+D:\Project\LotteryTicketQuery\LotteryTicketQuery.Model\obj\Debug\LotteryTicketQuery.Model.pdb

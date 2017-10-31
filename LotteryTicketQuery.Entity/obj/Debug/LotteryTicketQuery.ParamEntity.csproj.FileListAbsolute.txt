@@ -1,0 +1,5 @@
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Entity\bin\Debug\LotteryTicketQuery.Entity.dll
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Entity\bin\Debug\LotteryTicketQuery.Entity.pdb
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Entity\obj\Debug\LotteryTicketQuery.ParamEntity.csprojResolveAssemblyReference.cache
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Entity\obj\Debug\LotteryTicketQuery.Entity.dll
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Entity\obj\Debug\LotteryTicketQuery.Entity.pdb

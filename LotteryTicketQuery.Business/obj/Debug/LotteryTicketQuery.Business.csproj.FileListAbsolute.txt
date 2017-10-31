@@ -1,0 +1,4 @@
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Business\bin\Debug\LotteryTicketQuery.Business.dll
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Business\bin\Debug\LotteryTicketQuery.Business.pdb
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Business\obj\Debug\LotteryTicketQuery.Business.dll
+d:\myconfiguration\ypm3163\documents\visual studio 2012\Projects\WebApplication1\LotteryTicketQuery.Business\obj\Debug\LotteryTicketQuery.Business.pdb
